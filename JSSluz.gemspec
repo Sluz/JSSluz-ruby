@@ -6,8 +6,8 @@ require 'JSSluz/version'
 Gem::Specification.new do |spec|
   spec.name          = "JSSluz"
   spec.version       = JSSluz::VERSION
-  spec.authors       = ["Cyril"]
-  spec.email         = ["cyril@tapastreet.com"]
+  spec.authors       = ["Sluz"]
+  spec.email         = ["bourges.c@gmail.com"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
